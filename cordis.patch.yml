@@ -1,0 +1,6 @@
+# dsh-ui-font bundle patch: adds the font-appearance plugin to the web browser
+# roster (a `dsh.client` row). Client-only plugin — the host half is a no-op
+# that only satisfies the dual-face loading contract.
+- insert:
+    - id: ui-font
+      name: 'dsh-ui-font'
