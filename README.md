@@ -1,3 +1,8 @@
+> ⚠️ **本仓库已归档。** 此插件已并入 [Junt184/dsh-ui-beautify](https://github.com/Junt184/dsh-ui-beautify)「美化套件」——一个插件包含背景 / 字体 / 粒子全部功能，且旧设置自动迁移。请改用 `dsh-ui-beautify`。
+>
+> 安装：`dsh plugin --profile web add github:Junt184/dsh-ui-beautify`
+
+
 # dsh-ui-font
 
 为 `dsh` 的 Web 界面（`dsh web`）增加 **Apple 风格字体美化**，在「设置 → 常规」里注册一行控制面板。
